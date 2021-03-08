@@ -27,7 +27,7 @@
 </template>
 
 <script>
-import SelectInput from '../views/SelectInput.vue'
+import SelectInput from './SelectInput.vue'
 export default {
   components:{
     SelectInput,
