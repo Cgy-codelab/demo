@@ -15,6 +15,6 @@ git commit -m 'deploy'
 
 git remote add origin https://github.com/Cgy-codelab/demo.git
 # 部署到 https://<USERNAME>.github.io/<REPO>
-git push -f origin master
+git push -f  origin master
 
 cd -
